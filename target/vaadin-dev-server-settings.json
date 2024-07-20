@@ -1,0 +1,17 @@
+{
+  "frontendFolder": "C:/Projects/Sistema de gestión de empleados y pagos em/sistema-de-gestion-de-empleados-y-pagos/src/main/frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "C:/Projects/Sistema de gestión de empleados y pagos em/sistema-de-gestion-de-empleados-y-pagos/src/main/frontend/generated/jar-resources",
+  "staticOutput": "C:/Projects/Sistema de gestión de empleados y pagos em/sistema-de-gestion-de-empleados-y-pagos/target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "C:\\Projects\\Sistema de gestión de empleados y pagos em\\sistema-de-gestion-de-empleados-y-pagos\\target\\classes\\META-INF\\VAADIN\\config",
+  "frontendBundleOutput": "C:\\Projects\\Sistema de gestión de empleados y pagos em\\sistema-de-gestion-de-empleados-y-pagos\\target\\classes\\META-INF\\VAADIN\\webapp",
+  "devBundleOutput": "C:/Projects/Sistema de gestión de empleados y pagos em/sistema-de-gestion-de-empleados-y-pagos/target/dev-bundle/webapp",
+  "devBundleStatsOutput": "C:/Projects/Sistema de gestión de empleados y pagos em/sistema-de-gestion-de-empleados-y-pagos/target/dev-bundle/config",
+  "jarResourcesFolder": "C:/Projects/Sistema de gestión de empleados y pagos em/sistema-de-gestion-de-empleados-y-pagos/src/main/frontend/generated/jar-resources",
+  "themeName": "sistema-empleados",
+  "clientServiceWorkerSource": "C:\\Projects\\Sistema de gestión de empleados y pagos em\\sistema-de-gestion-de-empleados-y-pagos\\target\\sw.ts",
+  "pwaEnabled": false,
+  "offlineEnabled": false,
+  "offlinePath": "'offline.html'"
+}
