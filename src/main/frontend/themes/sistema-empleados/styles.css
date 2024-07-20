@@ -1,0 +1,10 @@
+@import url('./main-layout.css');
+@import url('./views/empleados-view.css');
+@import url('./views/registrode-horas-view.css');
+@import url('./views/pagos-view.css');
+    [theme~="dark"] {
+      --lumo-primary-color: hsl(214, 93%, 50%);
+      --lumo-primary-color-50pct: hsla(214, 93%, 50%, 0.5);
+      --lumo-primary-color-10pct: hsla(214, 93%, 50%, 0.1);
+
+    }
